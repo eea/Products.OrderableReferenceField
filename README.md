@@ -1,2 +1,0 @@
-# Products.OrderableReferenceField
-Products.OrderableReferenceField
